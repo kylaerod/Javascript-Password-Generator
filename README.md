@@ -15,7 +15,7 @@ After cloning the starter code to my computer and into my repository, more JavaS
 We then see randomly generated passwords provided onto the page.
 
 ![Window Open](<JSSC2.png>)
-![Result](<!JSSC1.png>)
+![Result](<JSSC1.png>)
 
 ## Credits
 
